@@ -1,4 +1,4 @@
-## 🧭 Model–View–Controller
+# 🧭 Model–View–Controller
 #obrazac-arhitekture
 
 - **<span style="color:#A3C2F2">Tip obrasca:</span>**
